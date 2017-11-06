@@ -83,3 +83,10 @@ sudo apt-get install openssh-server
 
 # start deploy
 cap production deploy --trace
+
+
+
+#ref: 
+#How To Automate Ruby On Rails Application Deployments Using Capistrano _ DigitalOcean
+#How To Deploy a Rails App with Unicorn and Nginx on Ubuntu 14
+#How to Push to GitHub - Rails Girls
